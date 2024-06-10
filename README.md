@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnthonyBY
+- 👋 Hi, I’m Anton
 - 👀 I’m interested in iOS Development
 - 🌱 I’m currently learning SwiftUI/Combine
 - 📫 How to reach me ... telegram: @anthonyby
