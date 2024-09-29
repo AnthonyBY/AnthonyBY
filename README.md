@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Anton
-- 👀 I’m interested in iOS Development
-- 🌱 I’m currently learning SwiftUI/Combine
-- 📫 How to reach me ... telegram: @anthonyby
+
+👋 Hi, I’m Anton
+For the last 12 years, I have focused on mobile app development for both iPhones and iPads (Obj-C/Swift/SwiftUI). I have participated in various exciting projects across different industries, including automotive, travelling, food delivery, secret messaging and Agile Project Management tools.
 
 <!---
 AnthonyBY/AnthonyBY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
